@@ -24,7 +24,7 @@
 ---
 ### 👀 Visitor Info  
 
-  [![Dhinesh Kumar profile views](https://u8views.com/api/v1/github/profiles/141849208/views/day-week-month-total-count.svg)](https://u8views.com/github/msdhinesh45)
+  [![Kartheeshwaran profile views](https://u8views.com/api/v1/github/profiles/141849208/views/day-week-month-total-count.svg)](https://u8views.com/github/Kartheeshmca)
 
 ---
 
