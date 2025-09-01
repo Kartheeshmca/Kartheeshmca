@@ -61,6 +61,15 @@
 </p>
 
 ---
+##  LeetCode Activity
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=LeetCode&logoColor=white&style=flat-square)](https://leetcode.com/u/kartheesh_18/)
+
+- **Solved**: Java – 82 problems  
+- **Top Skills**: Dynamic Programming, Binary Search, Arrays & Sorting  
+- **Commitment**: 50 Days Badge 2025 (active learner!)
+- **Community Engagement**: 29 solutions, 47 profile views
+
 
 ## 🚀 Projects
 - 💼 **[Portfolio Website](https://kartheeshmca.github.io/My_Portfolio/)**  
