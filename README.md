@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Kartheeshwaran+G;💻+Full+Stack+Developer;🚀+Tech+Explorer+%26+Innovator;🎯+Problem+Solver+on+LeetCode" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Kartheeshwaran+G;💻+Full+Stack+Developer;🚀+Tech+Explorer+%26+Innovator;🎯+Problem+Solver+on+LeetCode" alt="Typing Animation" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif"/>
 </p>
 
----
 
 ## 🙋‍♂️ About Me  
 
