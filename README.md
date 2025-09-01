@@ -81,7 +81,7 @@
 ## 🏅 Achievements  
 - 🎓 Roll of Honour (academic excellence)  
 - 🎖 Cleared **JEE Mains** with 63 percentile  
-- 🧩 2nd Prize in **Techton Quiz**  
+- 🧩 Participated in the State-Level Chess Championship and secured *** 15th place *** among top-ranked players. 
 
 ---
 
