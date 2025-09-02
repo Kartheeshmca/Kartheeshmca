@@ -22,11 +22,6 @@
 
 ---
 
-## 👀 Visitor Info  
-
-[![Profile Views](https://u8views.com/api/v1/github/profiles/141849208/views/day-week-month-total-count.svg)](https://u8views.com/github/Kartheeshmca)
-
----
 
 ## 🛠 Skills  
 
@@ -37,7 +32,7 @@
 
 ---
 
-## ☕ Java Stack  
+## ☕ Java   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
   <br/>
@@ -66,7 +61,6 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/kartheesh_18/)
 
-- ✅ Solved: **82 Java Problems**  
 - 🔑 Strong Areas: Dynamic Programming, Binary Search, Arrays & Sorting  
 - 🏆 Badge: **50 Days Badge 2025**  
 - 🌎 Community: 29+ solutions shared, 47+ profile views  
